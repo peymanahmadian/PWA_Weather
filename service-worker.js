@@ -1,4 +1,4 @@
-﻿var name = "fileWeather_" + (Math.random() * 10).toString;
+﻿var name = "fileWeather_" + Math.random() * 10;
 var cacheName = name;
 var filesToCache = [
   '/',
