@@ -1,4 +1,4 @@
-﻿var name = "fileWeather_" + Math.random() * 10;
+﻿var name = 'weatherPWA-step-6-1';
 var cacheName = name;
 var filesToCache = [
   '/',
